@@ -44,7 +44,7 @@
 
 @media (max-width:1025px) {
     .skillsCard {
-        padding: 2rem;
+        padding-left: 2rem;
     }
 
     .skillsCard span {
@@ -64,6 +64,10 @@
     @media (max-width:720px) {
         .skillsCard span {
             font-size: 0.9rem;
+        }
+
+        .skillsCard {
+            padding-left: 2rem;
         }
     
     }

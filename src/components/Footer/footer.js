@@ -1,8 +1,9 @@
 import React from 'react'
 import './footer.css'
-import InstagramIcon from '../../assets/Insta.png';
-import LinkedinIcon from '../../assets/linkedin.png';
+import InstagramIcon from '../../assets/insta.png';
+import LinkedinIcon from '../../assets/link.png';
 import GithubIcon from '../../assets/github.png';
+
 
 const Footer = () => {
   return (
