@@ -40,7 +40,7 @@
 
 
 .introContent {
-    
+    z-index: 1;
     width: 600rem;
     padding: 5rem 1.25rem 0 3rem;
     font-size: 3rem;
@@ -98,17 +98,20 @@
 @media screen and (max-width:720px) {
     .bg {
         position: absolute;
-        bottom: 0; 
-        left: 100%; 
+        bottom: -10rem; 
+        left: 85%; 
         transform: translateX(-50%); 
-        width: auto;
-        padding-left: 18rem;
-                
+        z-index: -10;
+        padding-top: 25rem;
+        width: 30rem;
+        height: auto;
+    
     
      
     }
     .introContent {
         font-size: 1.5rem;
+        z-index: 1;
     }
     .text {
         font-size: 1.5rem;

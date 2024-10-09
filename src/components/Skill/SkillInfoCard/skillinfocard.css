@@ -16,10 +16,15 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     border-bottom:  1.5px solid rgb(240, 27, 191);
+   
+   
 }
 
 .skillsInfoContent {
     padding: 1rem;
+    background: fixed;
+    background-color:rgb(38, 37, 37);
+   
 }
 
 .skillsInfo {
@@ -28,9 +33,15 @@
     justify-content: space-between;
 }
 
+.skillsInfo h6 {
+    color: rgb(240, 27, 191);
+    background:  rgb(53, 52, 52);
+}
+
 .skillsInfo p {
     font-size: 1rem;
     font-weight: 500;
+
 }
 
 .skillsInfo .percentage {
