@@ -1,30 +1,9 @@
-.skillsInfoCard {
-    min-height: 20rem;
-    border-radius: 0.65rem;
-    border: 1.5px solid rgb(240, 27, 191);
-    background: rgba(22,17,47.0.398);
-    backdrop-filter: blur(1rem);
-    
-}
-
-.skillsInfoCard h6 {
-    font-size: 1.2rem;
-    font-weight: 500;
-    padding: 0.8rem 2rem;
-    background: rgb(240, 27, 191);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border-bottom:  1.5px solid rgb(240, 27, 191);
-   
-   
-}
-
 .skillsInfoContent {
     padding: 1rem;
     background: fixed;
     background-color:rgb(38, 37, 37);
-   
+    border-radius: 0.65rem;
+    border: 1.5px solid rgb(240, 27, 191);
 }
 
 .skillsInfo {

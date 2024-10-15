@@ -103,7 +103,7 @@
         transform: translateX(-50%); 
         z-index: -10;
         padding-top: 25rem;
-        width: 30rem;
+        width: 35rem;
         height: auto;
     
     
@@ -118,6 +118,14 @@
     } 
     .introPara {
         max-width: 300px;
+    }
+
+    .downloadBtn {
+       
+        padding-top: 2rem;
+    
+    
+        
     }
 
     

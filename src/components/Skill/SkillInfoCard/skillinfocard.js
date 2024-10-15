@@ -3,8 +3,8 @@ import "./skillinfocard.css";
 
 const SkillInfoCard = ({heading, skills}) => {
   return (
-  <div className='skillsInfoCard'>
-        <h6>{heading}</h6>
+ 
+       
         <div className='skillsInfoContent'>
             {skills.map((item, index) => (
                 <React.Fragment key={`skill_${index}`}>
@@ -20,7 +20,7 @@ const SkillInfoCard = ({heading, skills}) => {
             ))}
 
         </div>
-  </div>
+ 
   )
 }
 

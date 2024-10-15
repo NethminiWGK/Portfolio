@@ -13,7 +13,8 @@
 .skillTitle {
     font-size: 3rem;
     font-weight: 600;
-    margin-bottom: 1.5rem;
+    padding-bottom: 3rem;
+    margin-bottom: 1.5rem 0;
     justify-content: center;
     text-align: center;
     display: flex;
@@ -90,6 +91,7 @@
     .skillContainer {
         font-size: 1rem;
         margin-bottom: 2rem;
+        
        
     }
 

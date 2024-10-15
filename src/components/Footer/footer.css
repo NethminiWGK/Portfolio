@@ -15,6 +15,7 @@
     justify-content: center;
     margin-bottom: 0.5rem; /* Adds space between icons and text */
 
+
 }
 
 .link {
@@ -22,6 +23,7 @@
     height: 2rem;
     width: 2rem;
     margin: 0 0.75rem;
+    
 }
 .copyright {
     font-size: small;

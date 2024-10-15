@@ -18,6 +18,8 @@ const Skill = () => {
     <div className='skillContainer'>
          <span className='skillTitle'>My Skills</span>
         <div className='skillContent'>
+
+            
             <div className='skills'>
             {SKILLS.map((item) => (
                 <SkillCard
